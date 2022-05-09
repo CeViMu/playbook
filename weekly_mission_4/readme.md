@@ -1,7 +1,7 @@
 # Weekly Mission 4
 
 
-Proyectos desarrollados en la semana 3:
+Proyectos desarrollados en la semana 4:
 
 | Proyecto | Práctica | Link al repo |
 | ------------- |:-------------:| -----:|
