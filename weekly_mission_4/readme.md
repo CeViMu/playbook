@@ -8,5 +8,5 @@ Proyectos desarrollados en la semana 4:
 |`fizzbuzz`|1,2,3|[Link al repo](https://github.com/CeViMu/fizzbuzz)|
 |`PR`|4|[Link al repo](https://github.com/CeViMu/fizzbuzz-1)|
 |`Code Challenge`|5|[Link al repo](https://github.com/CeViMu/Code_Challenge)|
-|`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`Trello`|6|[Link al repo](https://github.com/CeViMu/Trello)|
 |`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
